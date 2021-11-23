@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SelamWorld
-- 👀 I’m interested in game developing and robotic 
+- 👀 I’m interested ...
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
