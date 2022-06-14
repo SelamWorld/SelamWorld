@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SelamWorld
-- 👀 I’m interested ...
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m Halil İbrahim
+- 👀 I’m interested in Game development and design
+- 🌱 I’m currently learning C++, Unreal Engine 4, Blender 3D Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
