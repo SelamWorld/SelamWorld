@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Halil İbrahim
 - 👀 I’m interested in Game development and design
-- 🌱 I’m currently learning C++, Unreal Engine
+- 🌱 I’m currently learning C++, Unreal Engine, c#, Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me halil199010@hotmail.com
 
